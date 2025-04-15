@@ -1,4 +1,3 @@
-// observer_qt.cpp
 #include <QObject>
 #include <QDebug>
 
@@ -27,7 +26,7 @@ public slots:
     }
 };
 
-// main.cpp
+
 #include <QCoreApplication>
 #include "observer_qt.cpp"
 
